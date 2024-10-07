@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ItemNamespace
 {
-    class item
+    abstract class item
     {
         protected string item_name;
         protected double item_price;
@@ -23,12 +23,8 @@ namespace ItemNamespace
             item_price = price;
             item_quantity = quantity;
         }
-        public virtual double getTotalPrice() 
-        {
-            total_price = item_price * item_quantity;
-            return total_price;
-        }
-        public virtual void setPayment(double amount) { }
+        public abstract double getTotalPrice();
+        public abstract void setPayment(double amount);
 
     }
 
@@ -44,7 +40,7 @@ namespace ItemNamespace
         }
         public override double getTotalPrice()
         {
-            discounted_price = (price() * item_quantity) - ((price() * item_quantity) * item_discount);
+            discounted_price = ((item_price * item_quantity) - (item_price * item_quantity) * item_discount);
             return discounted_price;
         }
         public override void setPayment(double amount)

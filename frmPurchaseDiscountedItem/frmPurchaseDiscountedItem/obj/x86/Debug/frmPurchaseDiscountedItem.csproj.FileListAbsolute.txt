@@ -1,0 +1,7 @@
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.csproj.GenerateResource.Cache
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\bin\Debug\frmPurchaseDiscountedItem.exe
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\bin\Debug\frmPurchaseDiscountedItem.pdb
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.exe
+D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.pdb

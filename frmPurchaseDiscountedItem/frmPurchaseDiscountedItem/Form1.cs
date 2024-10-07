@@ -46,7 +46,7 @@ namespace WindowsFormsApplication1
             DiscountedItem DItemPaid = new DiscountedItem(IName, IPrice, quantity, discounter);
             DItemPaid.getTotalPrice();
             DItemPaid.setPayment(paymenter);
-            ChangeBox.Text = "Change: " + DItemPaid.getChange().ToString("F2");
+            ChangeBox.Text = "Change: P" + DItemPaid.getChange().ToString("F1");
         }
 
         private void Payment_TextChanged(object sender, EventArgs e)
@@ -91,7 +91,7 @@ namespace WindowsFormsApplication1
                 discounter = Convert.ToDouble(DiscountBox.Text);
             }
             DiscountedItem DItem = new DiscountedItem(IName, IPrice, quantity, discounter);
-            TotalAmount.Text = "Total Amount: " + DItem.getTotalPrice().ToString("F2");
+            TotalAmount.Text = "Total Amount: P" + DItem.getTotalPrice().ToString("F1");
                     }
                 }
             }
