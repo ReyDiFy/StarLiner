@@ -1,0 +1,14 @@
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\obj\x86\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\obj\x86\Debug\EmployeeApplication.exe
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\obj\x86\Debug\EmployeeApplication.pdb
+C:\Users\ReyDiFy\AppData\Local\Temporary Projects\EmployeeApplication\obj\x86\Debug\EmployeeApplication.Form1.resources
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\obj\x86\Debug\EmployeeApplication.exe
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\obj\x86\Debug\EmployeeApplication.pdb
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\obj\x86\Debug\EmployeeApplication.Form1.resources
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\obj\x86\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\ReyDiFy\documents\visual studio 2010\Projects\EmployeeApplication\EmployeeApplication\obj\x86\Debug\EmployeeApplication.csproj.GenerateResource.Cache
