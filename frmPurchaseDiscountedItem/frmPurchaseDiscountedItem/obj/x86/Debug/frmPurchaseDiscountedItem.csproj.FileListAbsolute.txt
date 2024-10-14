@@ -5,3 +5,10 @@ D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\bin\Debug\frmPurchaseDisc
 D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\bin\Debug\frmPurchaseDiscountedItem.pdb
 D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.exe
 D:\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.pdb
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\bin\Debug\frmPurchaseDiscountedItem.exe
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\bin\Debug\frmPurchaseDiscountedItem.pdb
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.csproj.GenerateResource.Cache
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.exe
+C:\Users\ReyDiFy\Documents\GitHub\StarLiner\frmPurchaseDiscountedItem\frmPurchaseDiscountedItem\obj\x86\Debug\frmPurchaseDiscountedItem.pdb
