@@ -1,0 +1,16 @@
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.exe
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.deps.json
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.runtimeconfig.json
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfo.cs
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\refint\CalculatorApplication.dll
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.genruntimeconfig.cache
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\ref\CalculatorApplication.dll
+C:\Users\ReyDiFy\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.FrmCalculator.resources
