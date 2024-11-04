@@ -1,0 +1,16 @@
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.frnAddProduct.resources
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.csproj.GenerateResource.cache
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.AssemblyInfoInputs.cache
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.AssemblyInfo.cs
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.exe
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.deps.json
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.runtimeconfig.json
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.dll
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\bin\Debug\net8.0-windows\Inventory.pdb
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.dll
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\refint\Inventory.dll
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.pdb
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\Inventory.genruntimeconfig.cache
+C:\Users\ReyDiFy\source\repos\Inventory\Inventory\obj\Debug\net8.0-windows\ref\Inventory.dll

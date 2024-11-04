@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|c:\\users\\reydify\\source\\repos\\inventory\\inventory\\frnaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|solutionrelative:inventory\\frnaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|c:\\users\\reydify\\source\\repos\\inventory\\inventory\\frnaddproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|solutionrelative:inventory\\frnaddproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|c:\\users\\reydify\\source\\repos\\inventory\\inventory\\frnaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|solutionrelative:inventory\\frnaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|c:\\users\\reydify\\source\\repos\\inventory\\inventory\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|solutionrelative:inventory\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|c:\\users\\reydify\\source\\repos\\inventory\\inventory\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958F2EBF-5745-4B62-B826-AD1F3BFA11D1}|Inventory\\Inventory.csproj|solutionrelative:inventory\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frnAddProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\frnAddProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Inventory\\frnAddProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\frnAddProduct.Designer.cs",
+              "RelativeToolTip": "Inventory\\frnAddProduct.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:55:59.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frnAddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\frnAddProduct.cs",
+              "RelativeDocumentMoniker": "Inventory\\frnAddProduct.cs",
+              "ToolTip": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\frnAddProduct.cs [Design]*",
+              "RelativeToolTip": "Inventory\\frnAddProduct.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:05:18.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frnAddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\frnAddProduct.cs",
+              "RelativeDocumentMoniker": "Inventory\\frnAddProduct.cs",
+              "ToolTip": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\frnAddProduct.cs*",
+              "RelativeToolTip": "Inventory\\frnAddProduct.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:00:26.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductException.cs",
+              "DocumentMoniker": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\ProductException.cs",
+              "RelativeDocumentMoniker": "Inventory\\ProductException.cs",
+              "ToolTip": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\ProductException.cs",
+              "RelativeToolTip": "Inventory\\ProductException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:35:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\ProductClass.cs",
+              "RelativeDocumentMoniker": "Inventory\\ProductClass.cs",
+              "ToolTip": "C:\\Users\\ReyDiFy\\source\\repos\\Inventory\\Inventory\\ProductClass.cs",
+              "RelativeToolTip": "Inventory\\ProductClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:06:58.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
