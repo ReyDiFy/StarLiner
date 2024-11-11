@@ -1,0 +1,16 @@
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.Form1.resources
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.csproj.GenerateResource.cache
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.AssemblyInfoInputs.cache
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.AssemblyInfo.cs
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.exe
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.deps.json
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.runtimeconfig.json
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.dll
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.pdb
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.dll
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\refint\frmTrackThread.dll
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.pdb
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.genruntimeconfig.cache
+C:\Users\ReyDiFy\source\repos\frmTrackThread\frmTrackThread\obj\Debug\net8.0-windows\ref\frmTrackThread.dll
