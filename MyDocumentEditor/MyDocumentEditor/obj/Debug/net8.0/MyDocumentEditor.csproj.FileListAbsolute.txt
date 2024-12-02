@@ -1,0 +1,14 @@
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.AssemblyInfoInputs.cache
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.AssemblyInfo.cs
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.csproj.CoreCompileInputs.cache
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\bin\Debug\net8.0\MyDocumentEditor.exe
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\bin\Debug\net8.0\MyDocumentEditor.deps.json
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\bin\Debug\net8.0\MyDocumentEditor.runtimeconfig.json
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\bin\Debug\net8.0\MyDocumentEditor.dll
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\bin\Debug\net8.0\MyDocumentEditor.pdb
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.dll
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\refint\MyDocumentEditor.dll
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.pdb
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\MyDocumentEditor.genruntimeconfig.cache
+C:\Users\ReyDiFy\source\repos\MyDocumentEditor\MyDocumentEditor\obj\Debug\net8.0\ref\MyDocumentEditor.dll
